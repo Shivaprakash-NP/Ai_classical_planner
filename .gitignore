@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node / React frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Legacy
+*.png
