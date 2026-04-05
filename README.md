@@ -31,7 +31,7 @@ Follow the steps below to get both servers running seamlessly in your local envi
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Shivaprakash-NP/Ai_classical_planner
    cd path/to/Ai_classical_planner
    ```
 
